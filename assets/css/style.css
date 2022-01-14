@@ -246,15 +246,19 @@ h1, h2, h3, h4, h5, h6 {
   /*background-size: cover;*/
   /*position: relative;*/
   /*position: center;*/
-  background-size: auto;
-  margin-top: auto;
-  vertical-align: middle;
   margin-top: 50px;
+  background-size: auto;
+
 }
+
+/*Make minimum and maximum*/
 @media (min-width: 992px) {
   #hero {
-    padding-left: 40vw;
-    padding-top: 60vh;
+    vertical-align: middle;
+
+    background-size: 40vw;
+    padding-left: calc(-201px + 50vw);
+    padding-top: calc(42vh + 50px);
   }
 }
 
