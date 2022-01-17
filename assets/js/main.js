@@ -261,10 +261,17 @@
     })
   });
 
-  var button_submit = document.getElementById("button_submit");
-  button_submit.addEventListener('click', function(){
+  // var button_submit = document.getElementById("button_submit");
+  // button_submit.addEventListener('click', function(){
+  //   console.log("clicked");
+  //   alert("Thank you for your mail !");
+  // });
+
+
+  var button_about = document.getElementById("about_button");
+  document.getElementById("about_button").addEventListener('click', function(){
     console.log("clicked");
-    alert("Thank you for your mail !");
+    alert("This section is not available for the moment ...");
   });
 
 })();
