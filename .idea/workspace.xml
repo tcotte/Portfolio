@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80265dd5-969c-4376-b5a8-0be2f0c09587" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/velib-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fake_or_real-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/fake_or_real-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +47,7 @@
       <recent name="C:\Users\User\Downloads\MyResume\MyResume" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Informations perso\Portfolio" />
       <recent name="C:\Users\User\Downloads\MyResume\MyResume\assets\img\portfolio" />
       <recent name="C:\Users\User\Downloads\MyResume\MyResume\assets\img" />
     </key>
@@ -76,7 +79,7 @@
       <workItem from="1642090158569" duration="1807000" />
       <workItem from="1642148011820" duration="900000" />
       <workItem from="1642177998149" duration="645000" />
-      <workItem from="1642415913800" duration="8504000" />
+      <workItem from="1642415913800" duration="12470000" />
     </task>
     <servers />
   </component>

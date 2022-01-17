@@ -266,4 +266,4 @@
     alert("Thank you for your mail !");
   });
 
-})
+})()
