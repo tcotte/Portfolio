@@ -261,9 +261,10 @@
     })
   });
 
-  var button_submit = document.getElementById("button_submit")
-  button_submit.onclick(function(){
+  var button_submit = document.getElementById("button_submit");
+  button_submit.addEventListener('click', function(){
+    console.log("clicked");
     alert("Thank you for your mail !");
   });
 
-})()
+})();
